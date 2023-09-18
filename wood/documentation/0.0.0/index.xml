@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wood Programming Language</title>
-    <link>https://example.com/documentation/0.0.0/</link>
+    <link>https://kevreco.github.io/wood/documentation/0.0.0/</link>
     <description>Recent content on Wood Programming Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/documentation/0.0.0/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kevreco.github.io/wood/documentation/0.0.0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/documentation/0.0.0/01-introduction/01/</link>
+      <link>https://kevreco.github.io/wood/documentation/0.0.0/01-introduction/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/documentation/0.0.0/01-introduction/01/</guid>
+      <guid>https://kevreco.github.io/wood/documentation/0.0.0/01-introduction/01/</guid>
       <description>Content of 01.md</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/documentation/0.0.0/01-introduction/02/</link>
+      <link>https://kevreco.github.io/wood/documentation/0.0.0/01-introduction/02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/documentation/0.0.0/01-introduction/02/</guid>
+      <guid>https://kevreco.github.io/wood/documentation/0.0.0/01-introduction/02/</guid>
       <description>Content of 02.md</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/documentation/0.0.0/02-hello-world/01/</link>
+      <link>https://kevreco.github.io/wood/documentation/0.0.0/02-hello-world/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/documentation/0.0.0/02-hello-world/01/</guid>
+      <guid>https://kevreco.github.io/wood/documentation/0.0.0/02-hello-world/01/</guid>
       <description>Content of 01.md</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/documentation/0.0.0/02-hello-world/02/</link>
+      <link>https://kevreco.github.io/wood/documentation/0.0.0/02-hello-world/02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/documentation/0.0.0/02-hello-world/02/</guid>
+      <guid>https://kevreco.github.io/wood/documentation/0.0.0/02-hello-world/02/</guid>
       <description>Content of 02.md</description>
     </item>
     
