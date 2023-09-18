@@ -1,2 +1,5 @@
 # kevreco.github.io
-Static website hosted on github
+
+My personal website hosted on github.
+
+https://kevreco.github.io
